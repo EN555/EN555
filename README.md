@@ -3,6 +3,6 @@
  ## **Welcome**  👋
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Eviatar's github stats](https://github-readme-stats.vercel.app/api?username=EN555)](https://github.com/EN555/github-readme-stats)
 
 
