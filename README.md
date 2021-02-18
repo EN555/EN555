@@ -8,7 +8,6 @@ I'm interesting in deep learning, especially in image recognition.
 
 </div>
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
 ### **Connect with me**:
 
@@ -22,6 +21,7 @@ I'm interesting in deep learning, especially in image recognition.
 
 ---- 
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
 
 
