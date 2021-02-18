@@ -2,6 +2,10 @@
   
  ## **Welcome**  👋
 
+</p>
+
+---
+
 Skills:
 
 	Languages: Python, C, Java
