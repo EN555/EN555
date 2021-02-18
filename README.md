@@ -12,7 +12,7 @@
 <a target="_blank" href="https://fb.com/aryxb">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+</br>
 
 
 IDEs: PyCharm, Anaconda, Visual Studio, Eclipse, IntelliJ, Python, C, Java, Pandas, Linux user level
