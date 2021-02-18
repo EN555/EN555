@@ -13,7 +13,7 @@ I'm interesting in deep learning, especially in image recognition.
 <a target="_blank" href="mailto:eviatarn@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a target="_blank" href="https://fb.com/aryxb">
+<a target="_blank" href="https://www.facebook.com/profile.php?id=100000149147016">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 </br>
