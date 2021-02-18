@@ -6,7 +6,7 @@
 
 **Connect with me**:
 
-<a target="_blank" href="mailto:arycleniobarros@gmail.com">
+<a target="_blank" href="mailto:eviatarn@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a target="_blank" href="https://fb.com/aryxb">
@@ -15,12 +15,7 @@
 
 
 
-
-	Pandas
-
-	IDEs: PyCharm, Anaconda, Visual Studio, Eclipse, IntelliJ, Python, C, Java
-
-	Linux user level
+IDEs: PyCharm, Anaconda, Visual Studio, Eclipse, IntelliJ, Python, C, Java, Pandas, Linux user level
 
 **Languages and Tools:**  
 
