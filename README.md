@@ -2,9 +2,8 @@
   
  ## **Welcome**  👋
 
+</div>
 ---
-
-</p>
 
 Skills:
 
