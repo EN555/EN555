@@ -7,6 +7,8 @@
 
 Skills:
 
+
+
 	Languages: Python, C, Java
 
 	Machine Learning
@@ -17,7 +19,8 @@ Skills:
 
 	Linux user level
 
-![image](https://user-images.githubusercontent.com/61500507/108342828-e9dcab00-71e3-11eb-840b-5dad388e1be8.png=100x20)
+**Languages and Tools:**  
+
 
 
 
