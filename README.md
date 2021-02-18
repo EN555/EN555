@@ -8,6 +8,8 @@ I'm interesting in deep learning, especially in image recognition.
 
 </div>
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
+
 ### **Connect with me**:
 
 <a target="_blank" href="mailto:eviatarn@gmail.com">
@@ -21,11 +23,7 @@ I'm interesting in deep learning, especially in image recognition.
 ---- 
 
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
 
-
-
-IDEs: PyCharm, Anaconda, Visual Studio, Eclipse, IntelliJ, Python, C, Java, Pandas, Linux user level
 
 ### **Languages and Tools:**  
 
