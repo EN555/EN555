@@ -1,6 +1,6 @@
 <div align="center">
   
-### 👋 Hello World, I'm Eviatar!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hello World, I'm Eviatar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm student for B.Sc. in Data Science (expected August 2022), Ariel University Part of the Excellence Program.
 
@@ -21,7 +21,12 @@ I'm interesting in deep learning, especially in image recognition.
 ---- 
 
 
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
+
 IDEs: PyCharm, Anaconda, Visual Studio, Eclipse, IntelliJ, Python, C, Java, Pandas, Linux user level
+
 
 ### **Languages and Tools:**  
 
