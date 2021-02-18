@@ -36,7 +36,7 @@ I'm interesting in deep learning, especially in image recognition.
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332831-1dfed800-2008-11eb-85dc-9925b457b3d4.png"/>
 <img align="left" width="36px" src="https://user-images.githubusercontent.com/57855070/98332622-ad57bb80-2007-11eb-8ecb-9bd68aefeef6.png"/>
 <img align="left" alt="Jupyter" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png"/>
-<img height="40" img align="left" alt="Pandas" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/> 
+<img height="40" img align="left" alt="Pandas" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1200px-Pandas_logo.svg.png"/> 
 <img height="35" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <br />
 
