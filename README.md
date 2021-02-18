@@ -3,24 +3,28 @@
  ## **Welcome**  👋
 
 </div>
----
 
-Skills:
+**Connect with me**:
+
+<a target="_blank" href="mailto:arycleniobarros@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a target="_blank" href="https://fb.com/aryxb">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 
 
 
-	Languages: Python, C, Java
-
-	Machine Learning
 
 	Pandas
 
-	IDEs: PyCharm, Anaconda, Visual Studio, Eclipse, IntelliJ
+	IDEs: PyCharm, Anaconda, Visual Studio, Eclipse, IntelliJ, Python, C, Java
 
 	Linux user level
 
 **Languages and Tools:**  
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
 
