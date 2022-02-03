@@ -4,7 +4,7 @@
 
 I'm student for B.Sc. in Data Science (expected August 2022), Ariel University Part of the Excellence Program.
 
-I'm interesting in deep learning, especially in image recognition.
+I'm interesting in deep learning, especially in NLP.
 
 </div>
 
