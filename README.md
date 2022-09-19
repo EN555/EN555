@@ -2,9 +2,9 @@
   
 ### Hello World, I'm Eviatar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm student for B.Sc. in Data Science (expected August 2022), Ariel University Part of the Excellence Program.
+I'm student for M.Sc. In BIU.
 
-I'm interesting in deep learning, especially in NLP.
+I'm interesting in field of NLP.
 
 </div>
 
