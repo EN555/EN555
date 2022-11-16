@@ -4,7 +4,7 @@
 
 I'm student for M.Sc. In BIU.
 
-I'm interesting in field of NLP.
+I'm interesting in the field of NLP.
 
 My research focus on event-event relation across multiple documents.
 </div>
